@@ -160,7 +160,7 @@ const ImageConverter = () => {
                 <div className="image-icon">
                   <ImageIcon />
                 </div>
-                <p className="upload-text">Drag & drop an image here or click to browse</p>
+                <p className="upload-text">Drag & drop an image here or click to browse hihi</p>
                 <p className="upload-hint">Supports JPG, PNG, WebP, and other common formats</p>
                 <input 
                   ref={fileInputRef}
